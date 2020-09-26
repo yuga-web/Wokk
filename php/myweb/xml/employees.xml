@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<employees status = "ok">
+
+        <record man_no = "101">
+
+            <name>Yuga</name>
+
+            <position>Manager</position>
+
+        </record>
+
+        <record man_no = "102">
+
+            <name>Theena</name>
+
+            <position>Finance Manager</position>
+
+        </record>
+
+</employees>

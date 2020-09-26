@@ -1,0 +1,19 @@
+<?php
+$serieslimit=25;
+$multiple=5;
+$sum=0;
+for($ind=0;$ind<=$serieslimit;$ind++)
+{
+$temp=$ind%$multiple;
+if($temp!=0)
+{
+	continue;
+}
+else
+{
+	$sum+=$ind;
+}
+}
+echo"sum";
+echo"sum".$multiple."from1to".$serieslimit."=".$sum."<br/>";
+?>

@@ -1,0 +1,20 @@
+body
+{
+	background:powderblue;
+}
+#frm
+{
+	border:solid gray 2px;
+	width:30%;
+	border-radius:20px;
+	margin:100px auto;
+	background:white;
+	padding:50px;
+}
+#btn
+{
+	color:white;
+	background:blue;
+	padding:5px;
+	margin-left:69%;
+}
